@@ -1,8 +1,6 @@
 ### Hi, I'm Nick Sagias 👋
 
-
-- 🔭 I’m currently working on portfolio app for my portfolio
-- 🌱 I’m currently learning C# and .NET API's
+- 🌱 I’m currently learning Swift, SwiftUI, Framer-Motion
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/in/nick-s-2aa6ba8/
 - ⚡ Fun fact: I like dancing salsa, mambo and bachata
 
