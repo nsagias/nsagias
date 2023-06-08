@@ -1,6 +1,6 @@
 ### Hi, I'm Nick Sagias 👋
 
-- 🌱 I’m currently learning Swift, SwiftUI, Framer-Motion
+- 🌱 I’m currently learning Swift/SwiftUI, C#, Java, and Framer-Motion
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/in/nick-s-2aa6ba8/
 - ⚡ Fun fact: I like dancing salsa, mambo and bachata
 
